@@ -43,24 +43,24 @@ layers:
   - C
   - V
   - B
-  - MUTE
-  - MUTE
+  - ␣
+  - ␣
   - N
   - M
   - ','
   - .
   - /
   - ⏎
+  - MUTE
   - $$mdi:apple-keyboard-control$$
   - LEFT GUI
-  - $$mdi:apple-keyboard-option$$
-  - ⌦
-  - ␣
-  - ␣
-  - BACKSPACE
   - LEFT ALT
-  - RIGHT GUI
+  - DELETE
+  - BACKSPACE
+  - RIGHT ALT
+  - $$mdi:apple-keyboard-command$$
   - $$mdi:apple-keyboard-control$$
+  - MUTE
   LOW:
   - '`'
   - F1
