@@ -43,20 +43,20 @@ layers:
   - C
   - V
   - B
-  - ␣
-  - ␣
+  - ⌦
+  - ⏎
   - N
   - M
   - ','
   - .
   - /
-  - ⏎
+  - RIGHT SHIFT
   - MUTE
   - $$mdi:apple-keyboard-control$$
   - LEFT GUI
   - LEFT ALT
-  - DELETE
   - BACKSPACE
+  - ␣
   - RIGHT ALT
   - $$mdi:apple-keyboard-command$$
   - $$mdi:apple-keyboard-control$$
